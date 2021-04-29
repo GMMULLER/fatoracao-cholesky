@@ -141,15 +141,6 @@ def getX(g, y):
 # b = [[44], [128], [214]]
 # Gabarito: [[-8], [6], [2]]
 
-# Imaginario
-# matriz = [
-#     [0, 0, 1],
-#     [0, 1, -1],
-#     [1, 1, -1]
-# ]
-# b = [[3], [4], [5]]
-# Gabarito: [[4.5], [-0.5], [-1]]
-
 # Execucao da fatoracao de Cholesky
 chole = cholesky(matriz)
 
